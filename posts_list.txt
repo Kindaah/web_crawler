@@ -1,0 +1,30 @@
+section: QOD
+Title: WORDS OF WISDOM OF THE FUCKING DAY:
+Content: JUST BECAUSE THINGS COULD HAVE BEEN DIFFERENT, IT DOESN’T MEAN THEY WOULD HAVE BEEN BETTER.
+Link: None
+
+section: AOD
+Title: EDUCATE YOUR IGNORANT ASS:
+Content: HOW THE HELL TO WALK 12 MILES A DAY. more>>
+Link: https://href.li/?https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day
+
+section: BOK
+Title: more>>
+Content: A HISTORY OF THE UNIVERSE IN 21 DAMN STARS. more>>
+Link: https://href.li/?https://amzn.to/3KWKDTm
+
+section: POD
+Title: FUCKING MIND-BLOWING BOOK OF THE DAY:
+Content: KEEP YOUR CAR HELLA CLEAN. more>>
+Link: https://href.li/?https://amzn.to/3skNe2Y
+
+section: WOD
+Title: more>>
+Content: THE MOST POWERFUL FUCKING CALENDAR. more>>
+Link: https://href.li/?https://morgen.so/
+
+section: VOD
+Title: USEFUL SHIT OF THE GODDAMN DAY:
+Content: HOW ELECTRICITY ACTUALLY WORKS. more>>
+Link: https://href.li/?https://www.youtube.com/watch?v=oI_X2cMHNe0
+
